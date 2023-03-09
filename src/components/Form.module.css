@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 2px;
+  gap: 5px;
+}
+
+.card input:hover {
+  border-color: grey;
+}
